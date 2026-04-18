@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pioneer Pro Tips</title>
+</head>
+<body style="background:#0f172a;color:white;text-align:center;font-family:Arial">
+
+<h1>🔥 Pioneer Pro Tips 🔥</h1>
+
+<h2>Free Tips</h2>
+<p>Arsenal vs Chelsea - Over 2.5</p>
+<p>Barcelona vs Sevilla - GG</p>
+
+<h2>💎 VIP (KES 1400 Weekly)</h2>
+<p>Send to: 0745960192</p>
+
+<button onclick="document.getElementById('vip').style.display='block'">
+I Have Paid
+</button>
+
+<div id="vip" style="display:none;">
+<h3>VIP Tips</h3>
+<p>Man City vs Liverpool - Over 3.5</p>
+</div>
+
+</body>
+</html>
