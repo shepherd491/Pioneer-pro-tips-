@@ -1,5 +1,8 @@
 &# Pioneer-pro-tips-
-
+<a href="https://wa.me/254745960192?text=Hi%20I%20want%20VIP%20tips"
+style="display:inline-block;background:#25D366;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin:10px;">
+💬 Chat on WhatsApp
+</a>
 vip section 
 
 <hr>
@@ -30,15 +33,14 @@ vip section
 
 <hr style="border:1px solid #222;">
 
-<h2>📊 Today’s Free Tips</h2>
 
-<div style="background:#121a2b;padding:15px;border-radius:10px;margin:10px;">
-<p>Arsenal vs Chelsea — Over 2.5</p>
-</div>
+<button onclick="alert('Send KES 1400 to 0745960192 then click OK to confirm')"
+style="padding:12px 20px;background:#f5c542;border:none;border-radius:8px;font-weight:bold;">
+💎 Join VIP Now
+</button>
 
-<div style="background:#121a2b;padding:15px;border-radius:10px;margin:10px;">
-<p>Barcelona vs Sevilla — GG</p>
-</div>
+
+
 
 <hr style="border:1px solid #222;">
 
@@ -101,6 +103,10 @@ function confirmPayment(){
 
 
 
+<button onclick="navigator.clipboard.writeText(window.location.href);alert('Link copied! Share on WhatsApp')"
+style="padding:12px 20px;background:#333;color:white;border:none;border-radius:8px;">
+📤 Share Site
+</button>
 
 
 
@@ -110,8 +116,3 @@ function confirmPayment(){
 
 
 
-
-<a href="https://wa.me/254745960192" target="_blank" 
-style="position:fixed;bottom:20px;right:20px;background:#25D366;color:white;padding:12px 18px;border-radius:50px;text-decoration:none;font-weight:bold;">
-💬 Chat on WhatsApp
-</a>
