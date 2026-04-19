@@ -1,4 +1,4 @@
-# Pioneer-pro-tips-
+&# Pioneer-pro-tips-
 
 vip section 
 
@@ -15,28 +15,85 @@ vip section
 
 <hr>
 
-<h2>🔒 Today’s VIP Games</h2>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pioneer Pro Tips</title>
+</head>
 
-<p style="color:orange;">
-VIP tips are currently locked 🔐<br>
-Activate VIP to view today’s matches.
-</p>
+<body style="margin:0;font-family:Arial;background:#0b1220;color:white;text-align:center;">
 
-<div style="border:1px solid #444;padding:15px;border-radius:10px;">
-  <p>💎 Exclusive football predictions</p>
-  <p>💎 Over 2.5 & GG selections</p>
-  <p>💎 High confidence picks</p>
+<div style="padding:30px;">
+
+<h1 style="color:#f5c542;">🔥 Pioneer Pro Tips</h1>
+<p style="opacity:0.8;">Daily Football Predictions & Analysis</p>
+
+<hr style="border:1px solid #222;">
+
+<h2>📊 Today’s Free Tips</h2>
+
+<div style="background:#121a2b;padding:15px;border-radius:10px;margin:10px;">
+<p>Arsenal vs Chelsea — Over 2.5</p>
 </div>
 
-<p><b>Unlock by paying KES 1400 via M-Pesa:</b></p>
-<p>0745960192</p>
+<div style="background:#121a2b;padding:15px;border-radius:10px;margin:10px;">
+<p>Barcelona vs Sevilla — GG</p>
+</div>
 
-<button onclick="confirmPayment()" style="padding:12px 20px;background:red;color:white;border:none;border-radius:6px;">
-Unlock VIP Now
+<hr style="border:1px solid #222;">
+
+<h2>🔒 VIP MEMBERS AREA</h2>
+
+<div style="background:#1a2235;padding:20px;border-radius:12px;margin:10px;">
+<p style="color:orange;"><b>VIP CONTENT IS LOCKED</b></p>
+<p>Subscribe to unlock daily premium predictions</p>
+
+<p><b>Benefits:</b></p>
+<p>✔ High probability picks</p>
+<p>✔ Over 2.5 / GG markets</p>
+<p>✔ Daily updates</p>
+</div>
+
+<h3>💰 Payment Details</h3>
+<p>Send <b>KES 1400</b> to:</p>
+<p><b>0745960192</b></p>
+
+<button onclick="confirmPayment()" 
+style="padding:12px 25px;background:#25d366;border:none;color:white;border-radius:8px;font-weight:bold;">
+Unlock VIP
 </button>
 
+<div id="vip" style="display:none;margin-top:20px;">
 
+<hr style="border:1px solid #222;">
 
+<h2>🔥 VIP TODAY’S PICKS</h2>
+
+<div style="background:#0f1a2b;padding:15px;border-radius:10px;">
+<p>Man City vs Liverpool — Over 2.5</p>
+<p>Inter vs Milan — GG</p>
+</div>
+
+</div>
+
+<hr style="border:1px solid #222;">
+
+<p style="opacity:0.6;">Contact: 0745960192</p>
+
+</div>
+
+<script>
+function confirmPayment(){
+  let name = prompt("Enter your M-Pesa name:");
+
+  alert("Payment request received. VIP will be activated shortly.");
+
+  document.getElementById('vip').style.display='block';
+}
+</script>
+
+</body>
+</html>
 
 
 
