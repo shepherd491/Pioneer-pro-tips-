@@ -73,7 +73,10 @@ Unlock VIP
 
 <div style="background:#0f1a2b;padding:15px;border-radius:10px;">
 <p>Man City vs arsenal  — Over ??</p>
-<p> everton  vs liverpool — ??</p>
+<p> everton  vs liverpool — ??</p> 
+   Arouca   vs Estrela   ---??
+   Pisa vs Genoa         ---??
+   Nantes vs Brest       ---?? 
 </div>
 
 
