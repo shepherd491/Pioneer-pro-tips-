@@ -15,6 +15,25 @@ vip section
 
 <hr>
 
+<h2>🔒 Today’s VIP Games</h2>
+
+<p style="color:orange;">
+VIP tips are currently locked 🔐<br>
+Activate VIP to view today’s matches.
+</p>
+
+<div style="border:1px solid #444;padding:15px;border-radius:10px;">
+  <p>💎 Exclusive football predictions</p>
+  <p>💎 Over 2.5 & GG selections</p>
+  <p>💎 High confidence picks</p>
+</div>
+
+<p><b>Unlock by paying KES 1400 via M-Pesa:</b></p>
+<p>0745960192</p>
+
+<button onclick="confirmPayment()" style="padding:12px 20px;background:red;color:white;border:none;border-radius:6px;">
+Unlock VIP Now
+</button>
 
 
 
