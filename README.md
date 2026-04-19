@@ -1,11 +1,21 @@
-&# Pioneer-pro-tips-
-<a href="https://wa.me/254745960192?text=Hi%20I%20want%20VIP%20tips"
-style="display:inline-block;background:#25D366;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin:10px;">
-💬 Chat on WhatsApp
-</a>
-vip section 
+Pioneer-pro-tips-
+<div style="background:#0f172a;padding:20px;border-bottom:1px solid #222;">
 
-<hr>
+<h2>🔥 Today’s Football VIP Predictions</h2>
+
+<p style="color:lightgreen;">
+✔ Updated daily  
+✔ Over 2.5 & GG picks  
+✔ VIP members get early access
+</p>
+
+<a href="https://wa.me/254745960192?text=I%20want%20today%20VIP%20tips"
+style="display:inline-block;background:#25D366;color:white;
+padding:12px 18px;border-radius:8px;text-decoration:none;font-weight:bold;">
+👉 Get VIP on WhatsApp
+</a>
+
+</div>
 
 <h2>📊 Yesterday’s Results</h2>
 
@@ -106,15 +116,27 @@ function confirmPayment(){
 
 
 
-<button onclick="navigator.clipboard.writeText(window.location.href);alert('Link copied! Share on WhatsApp')"
-style="padding:12px 20px;background:#333;color:white;border:none;border-radius:8px;">
-📤 Share Site
+
+
+<div style="background:#121a2b;margin:15px;padding:15px;border-radius:10px;">
+
+<h2>📢 Daily Free Tips</h2>
+<p>We post free picks to help new users test our accuracy</p>
+
+<p><b>Join WhatsApp for full VIP access 👇</b></p>
+
+<a href="https://wa.me/254745960192?text=VIP%20access"
+style="background:#f5c542;color:black;padding:10px 15px;border-radius:6px;
+text-decoration:none;font-weight:bold;">
+Join VIP Now
+</a>
+
+</div>
+<button onclick="navigator.clipboard.writeText(window.location.href);
+alert('Link copied! Share on WhatsApp groups 🔥')"
+style="padding:12px 20px;background:#374151;color:white;border:none;border-radius:8px;">
+📤 Share & Earn Faster Tips
 </button>
-
-
-
-
-
 
 
 
