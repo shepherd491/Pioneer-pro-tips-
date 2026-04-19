@@ -70,9 +70,11 @@ Unlock VIP
 <h2>🔥 VIP TODAY’S PICKS</h2>
 
 <div style="background:#0f1a2b;padding:15px;border-radius:10px;">
-<p>Man City vs Liverpool — Over 2.5</p>
-<p>Inter vs Milan — GG</p>
+<p>Man City vs arsenal  — Over ??</p>
+<p> everton  vs liverpool — ??</p>
 </div>
+
+
 
 </div>
 
