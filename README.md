@@ -1,7 +1,19 @@
 # Pioneer-pro-tips-
 
+vip section 
 
+<hr>
 
+<h2>📊 Yesterday’s Results</h2>
+
+<p>✔ Lorient — WON</p>
+<p>✔ Hoffenheim — WON</p>
+<p>✔ Leeds United — WON</p>
+<p>✔ Manchester United — WON</p>
+
+<p><b>🔥 Strong winning day for VIP tips 🔥</b></p>
+
+<hr>
 
 
 
